@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pratical_4.2</string>
+    <string name="toppings_label">Added :</string>
+    <string name="chocolate">Chocolate syrup</string>
+    <string name="sprinkles">Sprinkles</string>
+    <string name="nuts">Crushed Nuts</string>
+    <string name="cherries">Cherries</string>
+    <string name="orio">Orio Cookies Crumbles</string>
+</resources>
